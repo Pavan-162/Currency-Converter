@@ -1,3 +1,4 @@
+My site is live at https://pavan-162.github.io/Currency-Converter/
 Currency Converter
 Overview
 The Currency Converter is a web-based application that enables users to convert currencies between five different options. It features a search bar within the currency dropdown, making it easy to select the desired currency. The app provides real-time conversions based on up-to-date exchange rates, presented in a simple, user-friendly interface.
@@ -28,7 +29,7 @@ Open your terminal or command prompt, and run the following command:
 
 bash
 Copy code
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/Pavan-162/currency-converter.git
 Note: Replace yourusername with your actual GitHub username if you are hosting this repository on GitHub. If not, replace it with the repository URL.
 
 Navigate to the Project Directory:
